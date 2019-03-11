@@ -9,6 +9,8 @@ This program provides an implementation of a neural network model for joint extr
     year      = {2019}
     }
     
+<img width="750" alt="Screen Shot 2019-03-11 at 14 43 02" src="https://user-images.githubusercontent.com/2412555/54099204-25717680-440c-11e9-8673-5ecdb05b25e1.png">
+    
 ### Installation
 
 jointRE requires the following software packages:
