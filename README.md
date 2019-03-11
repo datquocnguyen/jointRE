@@ -26,9 +26,3 @@ Once you installed the prerequisite packages above, you can clone or download (a
 ### Usage
 
 [jNERE](https://github.com/datquocnguyen/jointRE/tree/master/jNERE) and [jECRE](https://github.com/datquocnguyen/jointRE/tree/master/jECRE) correspond to two evaluation setup scenarios  NER&RC and EC&RC used in my paper, respectively.  Checkout `run.sh` in `scripts` folder. It should be self-explanatory.
-
-
-### LICENSE
-This software is provided AS IS with NO SUPPORT. These programs have no warranty, guarantee, express or implied representation of any kind whatsoever. All other warranties including, but not limited to, merchantability and fitness for purpose, whether express, implied, or arising by operation of law, course of dealing, or trade usage are hereby disclaimed.
-
-I believe that the programs compute what I claim they compute, but I do not guarantee this. The programs may be poorly and inconsistently documented and may contain undocumented components, features or modifications. I make no guarantee that these programs will be suitable for any application.
